@@ -1,4 +1,4 @@
 # Kate's Pots
-http://kates-pots.com  
+Backend for http://kates-pots.com  
   
 Created by [Zachary Taylor](http://github.com/ztaylor54)

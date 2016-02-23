@@ -7,7 +7,7 @@ layout: default
 		<p>I'm changing the site to use Jekyll, so things will be ugly for a while. It'll get better soon!</p>
 		<ul class="actions">
 			<li>
-				<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="button big">Press this button!</a>
+				<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="button big">Press this button! (it does nothing)</a>
 			</li>
 		</ul>
 	</section>
